@@ -1,0 +1,3 @@
+[submodule "32blit-sdk"]
+	path = 32blit-sdk
+	url = https://github.com/32blit/32blit-sdk.git
